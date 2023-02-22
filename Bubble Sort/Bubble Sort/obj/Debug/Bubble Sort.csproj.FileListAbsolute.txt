@@ -1,0 +1,8 @@
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe.config
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.pdb
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csproj.AssemblyReference.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csproj.SuggestedBindingRedirects.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csproj.CoreCompileInputs.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.exe
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.pdb

@@ -1,0 +1,8 @@
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Get data to arrray\Get data to arrray\bin\Debug\Get data to arrray.exe.config
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Get data to arrray\Get data to arrray\bin\Debug\Get data to arrray.exe
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Get data to arrray\Get data to arrray\bin\Debug\Get data to arrray.pdb
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Get data to arrray\Get data to arrray\obj\Debug\Get data to arrray.csproj.AssemblyReference.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Get data to arrray\Get data to arrray\obj\Debug\Get data to arrray.csproj.SuggestedBindingRedirects.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Get data to arrray\Get data to arrray\obj\Debug\Get data to arrray.csproj.CoreCompileInputs.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Get data to arrray\Get data to arrray\obj\Debug\Get data to arrray.exe
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Get data to arrray\Get data to arrray\obj\Debug\Get data to arrray.pdb
