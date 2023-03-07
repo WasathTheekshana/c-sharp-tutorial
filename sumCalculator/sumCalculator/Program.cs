@@ -4,21 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Class_Introduction
+namespace sumCalculator
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            employee objEmployee = new employee();
+            calculator objCalculator = new calculator();
 
 
-            objEmployee.EmpInfo();
+            Console.WriteLine("\nSum is " + objCalculator.sum());
 
-
-
-
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

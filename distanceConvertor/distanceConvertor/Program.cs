@@ -4,21 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Class_Introduction
+namespace distanceConvertor
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            employee objEmployee = new employee();
+            calculations objCalculations = new calculations();
 
+            objCalculations.convertor();
 
-            objEmployee.EmpInfo();
-
-
-
-
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

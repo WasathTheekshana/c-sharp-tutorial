@@ -4,21 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Class_Introduction
+namespace Tutorial
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            employee objEmployee = new employee();
-
-
-            objEmployee.EmpInfo();
-
-
-
-
-            Console.ReadKey();
         }
     }
 }

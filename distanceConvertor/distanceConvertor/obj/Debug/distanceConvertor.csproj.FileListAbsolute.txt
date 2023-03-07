@@ -1,0 +1,8 @@
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\distanceConvertor\distanceConvertor\bin\Debug\distanceConvertor.exe.config
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\distanceConvertor\distanceConvertor\bin\Debug\distanceConvertor.exe
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\distanceConvertor\distanceConvertor\bin\Debug\distanceConvertor.pdb
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\distanceConvertor\distanceConvertor\obj\Debug\distanceConvertor.csproj.AssemblyReference.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\distanceConvertor\distanceConvertor\obj\Debug\distanceConvertor.csproj.SuggestedBindingRedirects.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\distanceConvertor\distanceConvertor\obj\Debug\distanceConvertor.csproj.CoreCompileInputs.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\distanceConvertor\distanceConvertor\obj\Debug\distanceConvertor.exe
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\distanceConvertor\distanceConvertor\obj\Debug\distanceConvertor.pdb

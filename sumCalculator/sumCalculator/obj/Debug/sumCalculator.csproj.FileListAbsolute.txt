@@ -1,0 +1,8 @@
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\sumCalculator\sumCalculator\bin\Debug\sumCalculator.exe.config
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\sumCalculator\sumCalculator\bin\Debug\sumCalculator.exe
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\sumCalculator\sumCalculator\bin\Debug\sumCalculator.pdb
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\sumCalculator\sumCalculator\obj\Debug\sumCalculator.csproj.AssemblyReference.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\sumCalculator\sumCalculator\obj\Debug\sumCalculator.csproj.SuggestedBindingRedirects.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\sumCalculator\sumCalculator\obj\Debug\sumCalculator.csproj.CoreCompileInputs.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\sumCalculator\sumCalculator\obj\Debug\sumCalculator.exe
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\sumCalculator\sumCalculator\obj\Debug\sumCalculator.pdb

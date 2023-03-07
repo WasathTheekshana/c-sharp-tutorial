@@ -1,0 +1,8 @@
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Class Introduction\Class Introduction\bin\Debug\Class Introduction.exe.config
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Class Introduction\Class Introduction\bin\Debug\Class Introduction.exe
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Class Introduction\Class Introduction\bin\Debug\Class Introduction.pdb
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Class Introduction\Class Introduction\obj\Debug\Class Introduction.csproj.AssemblyReference.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Class Introduction\Class Introduction\obj\Debug\Class Introduction.csproj.SuggestedBindingRedirects.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Class Introduction\Class Introduction\obj\Debug\Class Introduction.csproj.CoreCompileInputs.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Class Introduction\Class Introduction\obj\Debug\Class Introduction.exe
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\Class Introduction\Class Introduction\obj\Debug\Class Introduction.pdb
