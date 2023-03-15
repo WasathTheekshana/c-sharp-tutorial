@@ -13,7 +13,13 @@ namespace sumCalculator
             calculator objCalculator = new calculator();
 
 
-            Console.WriteLine("\nSum is " + objCalculator.sum());
+            Console.WriteLine("Enter Number 1: ");
+            int n1 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter Number 1: ");
+            int n2 = int.Parse(Console.ReadLine());
+
+            objCalculator.sum(n1, n2);
 
             Console.ReadLine();
         }

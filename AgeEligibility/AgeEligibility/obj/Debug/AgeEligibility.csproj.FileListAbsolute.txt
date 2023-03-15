@@ -1,0 +1,8 @@
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\AgeEligibility\AgeEligibility\bin\Debug\AgeEligibility.exe.config
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\AgeEligibility\AgeEligibility\bin\Debug\AgeEligibility.exe
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\AgeEligibility\AgeEligibility\bin\Debug\AgeEligibility.pdb
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\AgeEligibility\AgeEligibility\obj\Debug\AgeEligibility.csproj.AssemblyReference.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\AgeEligibility\AgeEligibility\obj\Debug\AgeEligibility.csproj.SuggestedBindingRedirects.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\AgeEligibility\AgeEligibility\obj\Debug\AgeEligibility.csproj.CoreCompileInputs.cache
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\AgeEligibility\AgeEligibility\obj\Debug\AgeEligibility.exe
+D:\NSBM\Course Work\1 Year 3 Semester\C#\Projects\c-sharp-tutorial\AgeEligibility\AgeEligibility\obj\Debug\AgeEligibility.pdb

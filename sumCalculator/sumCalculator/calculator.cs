@@ -8,20 +8,14 @@ namespace sumCalculator
 {
     internal class calculator
     {
-        public int sum()
+        public void sum(int num1, int num2)
         {
 
             int ans;
 
-            Console.WriteLine("Enter Number One : ");
-            int num1 = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Enter Number Two : ");
-            int num2 = int.Parse(Console.ReadLine());
-
             ans = num1 + num2;
 
-            return ans;
+            Console.WriteLine(ans);
             
         }
        
